@@ -1,8 +1,8 @@
 # 윤태성
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
-Compose 컴파일러 (31 ~ 79)
+Compose 함수들 (10 ~ 30) https://velog.io/@yts0646/jetpack-compose-internal <br>
+Compose 컴파일러 (31 ~ 79) https://velog.io/@yts0646/Compose-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC
 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
