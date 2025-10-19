@@ -1,8 +1,9 @@
 # 이경준
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
-Compose 컴파일러 (31 ~ 79)
+Compose 함수들 (10 ~ 30) https://augustin26.tistory.com/entry/Composable-%ED%95%A8%EC%88%98-%EC%A0%95%EB%A6%AC <br>
+Compose 컴파일러 (31 ~ 79) https://augustin26.tistory.com/entry/Compose-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC <br> 
+https://augustin26.tistory.com/entry/Compose-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-1
 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
