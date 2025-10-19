@@ -1,8 +1,8 @@
 # 박덕성
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
-Compose 컴파일러 (31 ~ 79)
+Compose 함수들 (10 ~ 30) https://ivy-cafe-79e.notion.site/1-2906b8c339e680468664f8707ca1e70e?source=copy_link <br>
+Compose 컴파일러 (31 ~ 79) https://ivy-cafe-79e.notion.site/2-2916b8c339e680e8b8f3d004522081ec?source=copy_link
 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
