@@ -1,8 +1,8 @@
 # 이지훈
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
-Compose 컴파일러 (31 ~ 79)
+Compose 함수들 (10 ~ 30) https://velog.io/@mraz3068/Composable-Functions <br>
+Compose 컴파일러 (31 ~ 79) https://velog.io/@mraz3068/Compose-Compiler
 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
