@@ -6,7 +6,7 @@ Compose 컴파일러 (31 ~ 79)
 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
-Compose Runtime - 2 (99 ~ 124)
+Compose Runtime - 2 (99 ~ 124) (https://nimok97.tistory.com/4)
 
 ### 3주차
 Compose UI - 1 (126 ~ 150) <br>
