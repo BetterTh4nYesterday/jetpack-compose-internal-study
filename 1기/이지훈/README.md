@@ -5,7 +5,7 @@ Compose 함수들 (10 ~ 30) https://velog.io/@mraz3068/Composable-Functions <br>
 Compose 컴파일러 (31 ~ 79) https://velog.io/@mraz3068/Compose-Compiler
 
 ### 2주차
-Compose Runtime - 1 (80 ~ 97) https://velog.io/@mraz3068/Compose-Compose-Runtime
+Compose Runtime - 1 (80 ~ 97) https://velog.io/@mraz3068/Compose-Compose-Runtime <br>
 Compose Runtime - 2 (99 ~ 124)
 
 ### 3주차
