@@ -12,6 +12,8 @@ Compose Runtime - 2 (99 ~ 124) https://velog.io/@yts0646/%EC%BB%B4%ED%8F%AC%EC%A
 Compose UI - 1 (126 ~ 150) <br>
 Compose UI - 2 (151 ~ 207)
 
+https://velog.io/@yts0646/Subcomposition-LookaheadScope
+
 ### 4주차
 상태 스냅샷 시스템 (210 ~ 243)
 
