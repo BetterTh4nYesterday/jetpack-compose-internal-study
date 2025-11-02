@@ -9,8 +9,8 @@
 [Compose Runtime - 2 (99 ~ 124)](https://lumbar-beryl-964.notion.site/2-99-124-27fb82abc59d8093a032fe7e59e0fd8d?source=copy_link)
 
 ### 3주차
-Compose UI - 1 (126 ~ 150) <br>
-Compose UI - 2 (151 ~ 207)
+[Compose UI - 1 (126 ~ 150)](https://lumbar-beryl-964.notion.site/Compose-UI-1-126-150-250b82abc59d80f88d5dc70aecdfe22d?pvs=74) <br>
+[Compose UI - 2](https://lumbar-beryl-964.notion.site/Compose-UI-2-151-207-27fb82abc59d8009add5d9ade0e11999?pvs=73) (151 ~ 207)
 
 ### 4주차
 상태 스냅샷 시스템 (210 ~ 243)
