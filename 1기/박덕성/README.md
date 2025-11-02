@@ -9,8 +9,8 @@ Compose Runtime - 1 (80 ~ 97) https://ivy-cafe-79e.notion.site/3-2916b8c339e6806
 Compose Runtime - 2 (99 ~ 124) https://ivy-cafe-79e.notion.site/3-2916b8c339e6806a9feffcc9543565ce?source=copy_link
 
 ### 3주차
-Compose UI - 1 (126 ~ 150) <br>
-Compose UI - 2 (151 ~ 207)
+Compose UI - 1 (126 ~ 150) https://ivy-cafe-79e.notion.site/4-29c6b8c339e6803d8b78c24e0df3c58a?source=copy_link <br>
+Compose UI - 2 (151 ~ 207) https://ivy-cafe-79e.notion.site/4-29c6b8c339e6803d8b78c24e0df3c58a?source=copy_link
 
 ### 4주차
 상태 스냅샷 시스템 (210 ~ 243)
