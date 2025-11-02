@@ -9,7 +9,7 @@ Compose Runtime - 1 (80 ~ 97) https://velog.io/@mraz3068/Compose-Compose-Runtime
 Compose Runtime - 2 (99 ~ 124)
 
 ### 3주차
-Compose UI - 1 (126 ~ 150) <br>
+Compose UI - 1 (126 ~ 150) https://velog.io/@mraz3068/Compose-Compose-UI <br>
 Compose UI - 2 (151 ~ 207)
 
 ### 4주차
