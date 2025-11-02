@@ -9,8 +9,8 @@ Compose Runtime - 1 (80 ~ 97) <br>
 Compose Runtime - 2 (99 ~ 124) (https://nimok97.tistory.com/4)
 
 ### 3주차
-Compose UI - 1 (126 ~ 150) <br>
-Compose UI - 2 (151 ~ 207)
+Compose UI - 1 (126 ~ 150) (https://nimok97.tistory.com/5) <br>
+Compose UI - 2 (151 ~ 207) (https://nimok97.tistory.com/6)
 
 ### 4주차
 상태 스냅샷 시스템 (210 ~ 243)
