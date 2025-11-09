@@ -13,7 +13,7 @@
 [Compose UI - 2 (151 ~ 207)](https://lumbar-beryl-964.notion.site/Compose-UI-2-151-207-27fb82abc59d8009add5d9ade0e11999?pvs=73) 
 
 ### 4주차
-상태 스냅샷 시스템 (210 ~ 243)
-
+[상태 스냅샷 시스템 (210 ~ 243)
+](https://lumbar-beryl-964.notion.site/210-243-250b82abc59d8072bbafcbba9b7fbe13?source=copy_link)
 ### 5주차
 이펙트 및 이펙트 핸들러 (244 ~ 260)
