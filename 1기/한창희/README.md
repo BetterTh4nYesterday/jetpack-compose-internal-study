@@ -13,7 +13,7 @@ Compose UI - 1 (126 ~ 150) (https://nimok97.tistory.com/5) <br>
 Compose UI - 2 (151 ~ 207) (https://nimok97.tistory.com/6)
 
 ### 4주차
-상태 스냅샷 시스템 (210 ~ 243)
+상태 스냅샷 시스템 (210 ~ 243) (https://nimok97.tistory.com/7)
 
 ### 5주차
 이펙트 및 이펙트 핸들러 (244 ~ 260)
