@@ -13,7 +13,7 @@ Compose UI - 1 (126 ~ 150) https://velog.io/@mraz3068/Compose-Compose-UI <br>
 Compose UI - 2 (151 ~ 207)
 
 ### 4주차
-상태 스냅샷 시스템 (210 ~ 243)
+상태 스냅샷 시스템 (210 ~ 243) https://velog.io/@mraz3068/State-Snapshot-System
 
 ### 5주차
 이펙트 및 이펙트 핸들러 (244 ~ 260)
