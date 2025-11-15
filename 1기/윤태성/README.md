@@ -19,3 +19,5 @@ https://velog.io/@yts0646/Subcomposition-LookaheadScope
 
 ### 5주차
 이펙트 및 이펙트 핸들러 (244 ~ 260)
+
+https://velog.io/@yts0646/%EC%BB%B4%ED%8F%AC%EC%A0%80%EB%B8%94-%EC%82%AC%EC%9D%B4%EB%93%9C-%EC%9D%B4%ED%8E%99%ED%8A%B8
