@@ -18,3 +18,4 @@ Compose UI - 2 (151 ~ 207) https://augustin26.tistory.com/entry/Compose-UI2-Meas
 
 ### 5주차
 이펙트 및 이펙트 핸들러 (244 ~ 260)
+https://augustin26.tistory.com/entry/%EC%9D%B4%ED%8E%99%ED%8A%B8-%EB%B0%8F-%EC%9D%B4%ED%8E%99%ED%8A%B8-%ED%95%B8%EB%93%A4%EB%9F%AC
