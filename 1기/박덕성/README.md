@@ -16,4 +16,4 @@ Compose UI - 2 (151 ~ 207) https://ivy-cafe-79e.notion.site/4-29c6b8c339e6803d8b
 상태 스냅샷 시스템 (210 ~ 243) https://ivy-cafe-79e.notion.site/5-2a56b8c339e680a7ad86f36252294589?source=copy_link
 
 ### 5주차
-이펙트 및 이펙트 핸들러 (244 ~ 260)
+이펙트 및 이펙트 핸들러 (244 ~ 260) https://ivy-cafe-79e.notion.site/6-2a66b8c339e680ab89b6e94ab257f6a8
