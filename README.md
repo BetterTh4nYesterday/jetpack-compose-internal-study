@@ -1,5 +1,7 @@
 # Jetpack Compose Internal
 
+<img width="340" height="340" alt="character" src="https://github.com/user-attachments/assets/8e1d4bd1-8d10-42c5-a73b-1a19faf15ea3" />
+
 이 스터디의 목적은 컴포즈 내부에 대해 더 잘 이해하고 학습하고 또한 많은 **낙오자**를 발생시킨 이 책을 끝까지 읽기 위함입니다. <br>
 발표가 서툴러도 OK! 다른 사람들 보다 못 하면 어떡하지?라는 걱정은 NO! <br>
 **부담없이 편안하게 끝까지 같이 읽어 봅시다!** <br>
