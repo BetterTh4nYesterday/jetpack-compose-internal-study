@@ -22,7 +22,8 @@ LazyColumn 같은 리스트에서 “앞으로 곧 보여질 아이템”을 미
 
 - 2025 드로이드 나이츠에서 강다현님께서 발표하신 컴포즈 상태 스냅샷 발표입니다. 개인적으로 5장을 읽기 전에 먼저 이 영상을 보는 것을 강력 추천합니다. <br>
 [[DroidKnights 2025] 강다현 - 컴포즈 스냅샷 내부원리 찍어먹기](https://www.youtube.com/watch?v=FfeOd_zzfYk)
-추가로 같이 보면 좋은 글입니다. <br>
+
+- Jetpack Compose의 스냅샷(MVCC) 상태 시스템이 내부적으로 어떻게 동작하는지와, StateObject/StateRecord를 이용해 스냅샷을 인지하는 커스텀 자료구조를 구현하는 방법을 설명하는 글입니다. <br>
 [Implementing snapshot-aware data structures](https://blog.zachklipp.com/implementing-snapshot-aware-data-structures/)
 
 - 컴포즈의 SlotTable은 GapBuffer를 사용합니다. Gap Buffer는 슬롯 배열 중간에 ‘빈 틈(gap)’을 하나 두고, 삽입·삭제가 일어날 위치로 그 틈만 움직여 나머지 슬롯 복사는 최소화하는 자료구조(배치 방식)입니다. <br>
