@@ -16,4 +16,5 @@
 [상태 스냅샷 시스템 (210 ~ 243)
 ](https://lumbar-beryl-964.notion.site/210-243-250b82abc59d8072bbafcbba9b7fbe13?source=copy_link)
 ### 5주차
-이펙트 및 이펙트 핸들러 (244 ~ 260)
+[이펙트 및 이펙트 핸들러 (244 ~ 260)
+](https://lumbar-beryl-964.notion.site/244-260-250b82abc59d800cb803e0dc7e46a53c?source=copy_link)
