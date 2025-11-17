@@ -5,7 +5,7 @@
 LazyColumn 같은 리스트에서 “앞으로 곧 보여질 아이템”을 미리, 그리고 쪼개서 compose 하고, 실제로 보여줄 때는 한 번에 apply 해서 스크롤을 부드럽게 만드는 내부 메커니즘(PausableComposition)의 구조와 소스 코드 레벨 동작을 분석한 글입니다.
 
 - [Scoped recomposition in Jetpack Compose — what happens when state changes?](https://blog.zachklipp.com/scoped-recomposition-in-jetpack-compose-what-happens-when-state-changes/) <br>
-  RecomposeScope에 관련된 글입니다. 우리가 흔히 사용하고 있는 Column, Box 모두 internal로 만들어져 있습니다. internal 또는 그 이외에 RecomposeScope가 만들어지지 않는 경우는 어떤것들이 있을까요? 이는 아주 중요한 내용을 다루고 있습니다. <br>
+  RecomposeScope에 관련된 글입니다. 우리가 흔히 사용하고 있는 Column, Box 모두 inline으로 만들어져 있습니다. inline 또는 그 이외에 RecomposeScope가 만들어지지 않는 경우는 어떤것들이 있을까요? 이는 아주 중요한 내용을 다루고 있습니다. <br>
 그 외 추가로 같이 보면 좋은 글입니다. <br>
 [Deep dive into annotations in Jetpack Compose](https://blog.shreyaspatil.dev/deep-dive-into-annotations-in-jetpack-compose) <br>
 [https://speakerdeck.com/jisungbin/2025-keompojeu-mabeobsa](https://speakerdeck.com/jisungbin/2025-keompojeu-mabeobsa)
