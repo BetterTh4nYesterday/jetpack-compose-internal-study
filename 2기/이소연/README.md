@@ -1,8 +1,8 @@
 # 이소연
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
-Compose 컴파일러 (31 ~ 79)
+[Compose 함수들 (10 ~ 30)](https://shadow-bridge-c40.notion.site/Compose-internal-1-2c988bba374f80b58538e4c7e2b35b1b?pvs=73)<br>
+[Compose 컴파일러 (31 ~ 79)](https://shadow-bridge-c40.notion.site/Compose-Internal-2-2c988bba374f8068a639c175f7da4940)
 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
