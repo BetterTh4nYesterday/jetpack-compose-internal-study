@@ -1,8 +1,8 @@
 # 이소민
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
-Compose 컴파일러 (31 ~ 79)
+[Compose 함수들 (10 ~ 30)](https://velog.io/@s6m1n/Jetpack-Compose-Internals-1%EC%9E%A5-Composable-%ED%95%A8%EC%88%98%EB%93%A4) <br>
+[Compose 컴파일러 (31 ~ 79)](https://velog.io/@s6m1n/Jetpack-Compose-Internals-2%EC%9E%A5-Compose-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC)
 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
