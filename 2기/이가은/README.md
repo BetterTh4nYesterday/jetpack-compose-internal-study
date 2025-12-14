@@ -1,9 +1,8 @@
 # 이가은
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
-Compose 컴파일러 (31 ~ 79)
-
+[Compose 함수들 (10 ~ 30)](https://principled-staircase-b45.notion.site/1-Composable-2c2ef8faab7d807cb7dbc6cf247ea368?source=copy_link) <br>
+[Compose 컴파일러 (31 ~ 79)](https://principled-staircase-b45.notion.site/2-Compose-2c5ef8faab7d802191c2ef2c9af40da7?source=copy_link) 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
 Compose Runtime - 2 (99 ~ 124)
