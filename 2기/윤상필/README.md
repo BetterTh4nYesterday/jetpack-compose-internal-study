@@ -1,8 +1,8 @@
 # 윤상필
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
-Compose 컴파일러 (31 ~ 79)
+[Compose 함수들 (10 ~ 30)](https://velog.io/@philipy-devlog/1장-Composable-함수의-내부-동작-원리) <br>
+[Compose 컴파일러 (31 ~ 79)](https://velog.io/@philipy-devlog/Jetpack-Compose-스터디-2장-컴포즈-컴파일러-분석) <br>
 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
