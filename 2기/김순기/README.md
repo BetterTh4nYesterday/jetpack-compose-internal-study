@@ -1,8 +1,8 @@
 # 김순기
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
-Compose 컴파일러 (31 ~ 79)
+[Compose 함수들 (10 ~ 30)](https://mydeviceinfotxt.blogspot.com/2025/12/composable-jetpack-compose.html) <br>
+[Compose 컴파일러 (31 ~ 79)](https://mydeviceinfotxt.blogspot.com/2025/12/compose-ui.html)
 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
