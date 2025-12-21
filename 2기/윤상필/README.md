@@ -5,8 +5,8 @@
 [Compose 컴파일러 (31 ~ 79)](https://velog.io/@philipy-devlog/Jetpack-Compose-스터디-2장-컴포즈-컴파일러-분석) <br>
 
 ### 2주차
-Compose Runtime - 1 (80 ~ 97) <br>
-Compose Runtime - 2 (99 ~ 124)
+[Compose Runtime - 1 (80 ~ 97)](https://velog.io/@philipy-devlog/3-Compose-Runtime-1) <br>
+[Compose Runtime - 2 (99 ~ 124)](https://velog.io/@philipy-devlog/3-Compose-Runtime-2)
 
 ### 3주차
 Compose UI - 1 (126 ~ 150) <br>
