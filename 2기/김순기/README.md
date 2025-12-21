@@ -5,8 +5,8 @@
 [Compose 컴파일러 (31 ~ 79)](https://mydeviceinfotxt.blogspot.com/2025/12/compose-ui.html)
 
 ### 2주차
-Compose Runtime - 1 (80 ~ 97) <br>
-Compose Runtime - 2 (99 ~ 124)
+[Compose Runtime - 1 (80 ~ 97)](https://mydeviceinfotxt.blogspot.com/2025/12/compose-compose-runtime.html) <br>
+[Compose Runtime - 2 (99 ~ 124)](https://mydeviceinfotxt.blogspot.com/2025/12/compose-runtime.html)
 
 ### 3주차
 Compose UI - 1 (126 ~ 150) <br>
