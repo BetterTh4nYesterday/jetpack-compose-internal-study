@@ -34,4 +34,13 @@ LaunchedEffect는 내부 블럭에 작업에 상관없이 새로운 코루틴스
 - [https://android-review.googlesource.com/c/platform/frameworks/support/+/2644758](https://android-review.googlesource.com/c/platform/frameworks/support/+/2644758) <br>
 최근 Compose 팀에서 현재 사용 중인 갭 버퍼(gap buffer) 대신 연결 리스트(linked list) 유사한 데이터 구조를 SlotTable에 적용하는 것을 목표로 한다는 것을 알고 계신가요? 이 변경의 목적은 SlotTable을 편집(edit) 할 때의 성능을 향상시키면서도, SlotTable을 생성(build) 할 때의 기존 성능을 유지하는 것이라 합니다.
 
+### [2기]
+- [Conscious Compose optimization](https://proandroiddev.com/conscious-compose-optimization-e16144b80eef#039b) <br>
+  [Conscious Compose optimization 2: Tackling composition](https://proandroiddev.com/conscious-compose-optimization-2-tackling-composition-f3e42ce3069d) <br>
+  위 글은 Compose의 성능 최적화 방법을 다양하게 소개하고 있습니다. 처음 최적화에 대해 알게 됐거나 이미 알고 있어도 다시 보면 좋은 내용입니다.
 
+- [VS Code가 1GB 파일을 여는 방법: Rope에서 Piece Table까지](https://www.pwnz.kr/posts/text-editor-data-structures) <br>
+  대용량 텍스트를 빠르게 편집하기 위해 일반 문자열의 한계를 출발점으로 Gap Buffer·Rope·Piece Table을 비교하고, VS Code가 Piece Table을 확장한 ‘Piece Tree’로 1GB급 파일도 효율적으로 여는 원리를 설명한 글입니다.
+  컴포즈에서는 Gap Buffer를 사용하고 있고 흔히 텍스트 편집기에서 사용되는데요. Gap Buffer에 대한 짧은 내용이 존재하고 이외 다른 자료구조의 특징들을 실행 가능한 시각화된 자료로 파악할 수 있어 좋습니다.
+
+  
