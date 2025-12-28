@@ -9,8 +9,8 @@
 [Compose Runtime - 2 (99 ~ 124)](https://www.notion.so/fuschia-basement-f24/3-The-Compose-Runtime-2caf3bfa9204805ebff7f007721c4698?source=copy_link#2caf3bfa920480598594f97414622535)
 
 ### 3주차
-Compose UI - 1 (126 ~ 150) <br>
-Compose UI - 2 (151 ~ 207)
+[Compose UI - 1 (126 ~ 150)](https://fuschia-basement-f24.notion.site/4-Compose-UI-2caf3bfa920480849371e92ef91800b6?source=copy_link) <br>
+[Compose UI - 2 (151 ~ 207)](https://www.notion.so/fuschia-basement-f24/4-Compose-UI-2caf3bfa920480849371e92ef91800b6?source=copy_link#2d7f3bfa920480acb897cd2866beb599)
 
 ### 4주차
 상태 스냅샷 시스템 (210 ~ 243)
