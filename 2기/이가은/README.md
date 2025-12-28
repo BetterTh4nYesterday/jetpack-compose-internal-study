@@ -8,8 +8,8 @@
 [Compose Runtime - 2 (99 ~ 124)](https://principled-staircase-b45.notion.site/3-The-Compose-runtime-2cfef8faab7d800c88efe63553b7ded9?source=copy_link)
 
 ### 3주차
-Compose UI - 1 (126 ~ 150) <br>
-Compose UI - 2 (151 ~ 207)
+[Compose UI - 1 (126 ~ 150)](https://principled-staircase-b45.notion.site/4-Compose-UI-2d7ef8faab7d80e9aaa4d87a57a2c903?source=copy_link) <br>
+[Compose UI - 2 (151 ~ 207)](https://principled-staircase-b45.notion.site/4-Compose-UI-2d7ef8faab7d80e9aaa4d87a57a2c903?source=copy_link)
 
 ### 4주차
 상태 스냅샷 시스템 (210 ~ 243)
