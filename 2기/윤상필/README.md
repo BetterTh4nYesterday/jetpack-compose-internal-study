@@ -9,8 +9,8 @@
 [Compose Runtime - 2 (99 ~ 124)](https://velog.io/@philipy-devlog/3-Compose-Runtime-2)
 
 ### 3주차
-Compose UI - 1 (126 ~ 150) <br>
-Compose UI - 2 (151 ~ 207)
+[Compose UI - 1 (126 ~ 150)](https://velog.io/@philipy-devlog/Compose-UI-1) <br>
+[Compose UI - 2 (151 ~ 207)](https://velog.io/@philipy-devlog/Compose-UI-2)
 
 ### 4주차
 상태 스냅샷 시스템 (210 ~ 243)
