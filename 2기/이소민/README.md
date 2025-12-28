@@ -10,6 +10,7 @@ Compose Runtime - 1 (80 ~ 97) <br>
 Compose Runtime - 2 (99 ~ 124)
 
 ### 3주차
+[Compose UI 블로그 포스트](https://velog.io/@s6m1n/Jetpack-Compose-Internals-4%EC%9E%A5-Compose-UI-jd76pgqt) (1부와 2부를 하나의 글로 업로드 했습니다.)
 Compose UI - 1 (126 ~ 150) <br>
 Compose UI - 2 (151 ~ 207)
 
