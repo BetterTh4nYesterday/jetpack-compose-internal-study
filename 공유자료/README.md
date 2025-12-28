@@ -43,4 +43,15 @@ LaunchedEffect는 내부 블럭에 작업에 상관없이 새로운 코루틴스
   대용량 텍스트를 빠르게 편집하기 위해 일반 문자열의 한계를 출발점으로 Gap Buffer·Rope·Piece Table을 비교하고, VS Code가 Piece Table을 확장한 ‘Piece Tree’로 1GB급 파일도 효율적으로 여는 원리를 설명한 글입니다.
   컴포즈에서는 Gap Buffer를 사용하고 있고 흔히 텍스트 편집기에서 사용되는데요. Gap Buffer에 대한 짧은 내용이 존재하고 이외 다른 자료구조의 특징들을 실행 가능한 시각화된 자료로 파악할 수 있어 좋습니다.
 
+- [Animations with Lookahead in Jetpack Compose](https://proandroiddev.com/animations-with-lookahead-in-jetpack-compose-60423fe0d1a7) <br>
+  [Container Transform Animation with Lookahead in Jetpack Compose](https://medium.com/@pushpalroy2007/container-transform-animation-with-lookahead-in-jetpack-compose-1c0db2a9b0a9) <br>
+  [Using LookaheadScope and intermediateLayout for bottom bar inside Compose navigation](https://medium.com/@hanas.marc/using-lookaheadscope-and-intermediatelayout-for-bottom-bar-inside-compose-navigation-e5abd0cb3cdc) <br>
+  책에는 LookaheadLayout으로 나오지만 LookaheadScope로 변경이 되었습니다. 읽어볼만한 글 3개를 공유합니다.
+
+- [ModifierOrderGuesser](https://marcinmoskala.com/ModifierOrderGuesser/) <br>
+  Compose 개발을 하면 Modifier를 반드시 사용할 수 밖에 없는데요. Modifier의 순서는 중요합니다. 게임을 통해 수련해봅시다. <br>
+  (추가로 https://kt.academy/ 이곳의 상단 'Free resources'에 가시면 다양한 게임을 해볼 수 있습니다. 강력추천!)
+
+- [Compose Modifiers deep dive](https://www.youtube.com/watch?v=BjGX2RftXsU) <br>
+  책의 주석에 있는 Modifier에 관한 영상입니다. 왜 초기에 컴포즈의 Modifier가 성능이 안 좋았고 왜 각각의 Node로 만들게 됐는지 그 역사를 알려줍니다. 영어라 불편하다면 노트북LM으로 만들어서 보는 것을 추천드립니다.
   
