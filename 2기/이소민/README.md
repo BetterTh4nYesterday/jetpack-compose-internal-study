@@ -15,7 +15,7 @@ Compose UI - 1 (126 ~ 150) <br>
 Compose UI - 2 (151 ~ 207)
 
 ### 4주차
-상태 스냅샷 시스템 (210 ~ 243)
+[상태 스냅샷 시스템 (210 ~ 243)](https://velog.io/@s6m1n/Jetpack-Compose-Internals-5%EC%9E%A5-%EC%83%81%ED%83%9C-%EC%8A%A4%EB%83%85%EC%83%B7-%EC%8B%9C%EC%8A%A4%ED%85%9C)
 
 ### 5주차
 이펙트 및 이펙트 핸들러 (244 ~ 260)
