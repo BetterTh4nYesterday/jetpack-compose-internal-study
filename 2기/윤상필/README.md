@@ -13,7 +13,7 @@
 [Compose UI - 2 (151 ~ 207)](https://velog.io/@philipy-devlog/Compose-UI-2)
 
 ### 4주차
-상태 스냅샷 시스템 (210 ~ 243)
+[상태 스냅샷 시스템 (210 ~ 243)](https://velog.io/@philipy-devlog/상태-스냅샷-시스템)
 
 ### 5주차
 이펙트 및 이펙트 핸들러 (244 ~ 260)
