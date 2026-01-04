@@ -13,7 +13,7 @@
 [Compose UI - 2 (151 ~ 207)](https://www.notion.so/fuschia-basement-f24/4-Compose-UI-2caf3bfa920480849371e92ef91800b6?source=copy_link#2d7f3bfa920480acb897cd2866beb599)
 
 ### 4주차
-상태 스냅샷 시스템 (210 ~ 243)
+[상태 스냅샷 시스템 (210 ~ 243)](https://fuschia-basement-f24.notion.site/5-State-snapshot-system-2daf3bfa9204800f9e5fed0881541775?source=copy_link)
 
 ### 5주차
 이펙트 및 이펙트 핸들러 (244 ~ 260)
