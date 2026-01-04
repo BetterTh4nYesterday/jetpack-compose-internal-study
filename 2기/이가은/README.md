@@ -12,7 +12,7 @@
 [Compose UI - 2 (151 ~ 207)](https://principled-staircase-b45.notion.site/4-Compose-UI-2d7ef8faab7d80e9aaa4d87a57a2c903?source=copy_link)
 
 ### 4주차
-상태 스냅샷 시스템 (210 ~ 243)
+[상태 스냅샷 시스템 (210 ~ 243)](https://principled-staircase-b45.notion.site/2ddef8faab7d801e927bd255ff5373a1?source=copy_link)
 
 ### 5주차
 이펙트 및 이펙트 핸들러 (244 ~ 260)
