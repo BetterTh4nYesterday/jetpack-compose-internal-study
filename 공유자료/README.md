@@ -54,4 +54,6 @@ LaunchedEffect는 내부 블럭에 작업에 상관없이 새로운 코루틴스
 
 - [Compose Modifiers deep dive](https://www.youtube.com/watch?v=BjGX2RftXsU) <br>
   책의 주석에 있는 Modifier에 관한 영상입니다. 왜 초기에 컴포즈의 Modifier가 성능이 안 좋았고 왜 각각의 Node로 만들게 됐는지 그 역사를 알려줍니다. 영어라 불편하다면 노트북LM으로 만들어서 보는 것을 추천드립니다.
-  
+
+- [[Compose] Snapshot System을 분석해보자](https://haeti.palms.blog/compose-snapshot-system) <br>
+  스냅샷 시스템에 대해 이해하기 쉽게 잘 설명되어 있는 글입니다. derivedStateOf()가 내부적으로 Snapshot을 어떻게 사용하는지 알려줍니다.
