@@ -16,4 +16,4 @@ Compose UI - 2 (151 ~ 207)
 [상태 스냅샷 시스템 (210 ~ 243)](https://shadow-bridge-c40.notion.site/2dd88bba374f8055bdacd947e898864e?source=copy_link)
 
 ### 5주차
-이펙트 및 이펙트 핸들러 (244 ~ 260)
+[이펙트 및 이펙트 핸들러 (244 ~ 260)](https://shadow-bridge-c40.notion.site/2e588bba374f800ab059fca5ef0a530b?source=copy_link)
