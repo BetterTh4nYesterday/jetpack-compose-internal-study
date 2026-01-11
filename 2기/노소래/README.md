@@ -16,4 +16,4 @@
 [상태 스냅샷 시스템 (210 ~ 243)](https://fuschia-basement-f24.notion.site/5-State-snapshot-system-2daf3bfa9204800f9e5fed0881541775?source=copy_link)
 
 ### 5주차
-이펙트 및 이펙트 핸들러 (244 ~ 260)
+[이펙트 및 이펙트 핸들러 (244 ~ 260)](https://fuschia-basement-f24.notion.site/6-2e0f3bfa9204800591a8f43d52b6bb80?source=copy_link)
