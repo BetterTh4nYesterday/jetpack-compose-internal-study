@@ -15,4 +15,4 @@
 [상태 스냅샷 시스템 (210 ~ 243)](https://principled-staircase-b45.notion.site/2ddef8faab7d801e927bd255ff5373a1?source=copy_link)
 
 ### 5주차
-이펙트 및 이펙트 핸들러 (244 ~ 260)
+[이펙트 및 이펙트 핸들러 (244 ~ 260)](https://principled-staircase-b45.notion.site/6-2e2ef8faab7d80388debee8428fe6b86?source=copy_link)
