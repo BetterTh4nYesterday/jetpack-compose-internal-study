@@ -57,3 +57,8 @@ LaunchedEffect는 내부 블럭에 작업에 상관없이 새로운 코루틴스
 
 - [[Compose] Snapshot System을 분석해보자](https://haeti.palms.blog/compose-snapshot-system) <br>
   스냅샷 시스템에 대해 이해하기 쉽게 잘 설명되어 있는 글입니다. derivedStateOf()가 내부적으로 Snapshot을 어떻게 사용하는지 알려줍니다.
+
+- [CMP Scrollbar <br>](https://kotlinlang.org/docs/multiplatform/compose-desktop-scrollbars.html)
+   구글 공식문서를 보면 [Scrollbar](https://developer.android.com/jetpack/androidx/compose-roadmap?hl=ko)가 아직 지원예정입니다. 그런데 JetBrains에서 스크롤바를 먼저 만들었는데요.
+   저는 실제 실무에 해당 Scrollbar를 적용했습니다. 다만, CMP 용으로 만들어져서 안드 프로젝트에는 직접 적용할 수 없고, 해당 라이브러리를 안드로이드에서만 사용할 수 있도록 만든 어떤 개발자분의 Github 레포를 적용했습니다.
+   Scrollbar에 대해 공부하고 싶다면 CMP의 Scrollbar를 파헤쳐 봅시다!
