@@ -34,6 +34,9 @@ LaunchedEffect는 내부 블럭에 작업에 상관없이 새로운 코루틴스
 - [https://android-review.googlesource.com/c/platform/frameworks/support/+/2644758](https://android-review.googlesource.com/c/platform/frameworks/support/+/2644758) <br>
 최근 Compose 팀에서 현재 사용 중인 갭 버퍼(gap buffer) 대신 연결 리스트(linked list) 유사한 데이터 구조를 SlotTable에 적용하는 것을 목표로 한다는 것을 알고 계신가요? 이 변경의 목적은 SlotTable을 편집(edit) 할 때의 성능을 향상시키면서도, SlotTable을 생성(build) 할 때의 기존 성능을 유지하는 것이라 합니다.
 
+- [Jetpack Compose: LazyColumn/LazyRow 내부 코드 분석 ~ 1부 LazyColumn/LazyRow](https://pluu.github.io/blog/android/androidx/2025/01/10/LazyList-1/) <br>
+LazyList에 대한 시리즈 분석글입니다. 처음 LazyColum/Row의 구조에 대한 흐름도를 보여줘서 이해하기 쉬운 것 같습니다.
+
 ### [2기]
 - [Conscious Compose optimization](https://proandroiddev.com/conscious-compose-optimization-e16144b80eef#039b) <br>
   [Conscious Compose optimization 2: Tackling composition](https://proandroiddev.com/conscious-compose-optimization-2-tackling-composition-f3e42ce3069d) <br>
