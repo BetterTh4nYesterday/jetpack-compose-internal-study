@@ -65,3 +65,7 @@ LazyList에 대한 시리즈 분석글입니다. 처음 LazyColum/Row의 구조�
    구글 공식문서를 보면 [Scrollbar](https://developer.android.com/jetpack/androidx/compose-roadmap?hl=ko)가 아직 지원예정입니다. 그런데 JetBrains에서 스크롤바를 먼저 만들었는데요.
    저는 실제 실무에 해당 Scrollbar를 적용했습니다. 다만, CMP 용으로 만들어져서 안드 프로젝트에는 직접 적용할 수 없고, 해당 라이브러리를 안드로이드에서만 사용할 수 있도록 만든 어떤 개발자분의 Github 레포를 적용했습니다.
    Scrollbar에 대해 공부하고 싶다면 CMP의 Scrollbar를 파헤쳐 봅시다!
+
+- [Enhance Compose Recomposition Performance with produceState and rememberUpdatedState #826 <br>](https://github.com/skydoves/landscapist/pull/826)
+   2기 스터디원으로 참여하신 가은님이 Landscapist 라이브러리의 컨트리뷰터가 되셨습니다! 적절한 Side Effect Handler를 사용하여 Recomposition을 개선한 내용을 확인해보시죠!
+
