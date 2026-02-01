@@ -1,8 +1,8 @@
 # 양현진
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
-Compose 컴파일러 (31 ~ 79)
+[Compose 함수들 (10 ~ 30)](https://www.notion.so/1-Composable-2f8525f7554780b8a283f6ee16012984?source=copy_link) <br>
+[Compose 컴파일러 (31 ~ 79)](https://www.notion.so/2-Compose-2f8525f755478028b142cdba03947685?source=copy_link)
 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
