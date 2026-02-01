@@ -1,8 +1,10 @@
 # 심은석
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
+Compose 함수들 (10 ~ 30) 
+[notion](https://www.notion.so/Composable-2f6a03e4f12580259e20f5c46e0c20a8?source=copy_link) <br>
 Compose 컴파일러 (31 ~ 79)
+[notion](https://www.notion.so/Compose-2f7a03e4f125804ab7c8e2d347aaebb8?source=copy_link)
 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
