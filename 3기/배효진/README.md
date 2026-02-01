@@ -1,7 +1,7 @@
 # 배효진
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
+[Compose 함수들 (10 ~ 30) <br>](https://www.notion.so/hjiee/Composable-10-30-2f85d6bc1fed809fa7ccc66ea7919ebc?source=copy_link)
 Compose 컴파일러 (31 ~ 79)
 
 ### 2주차
