@@ -1,8 +1,8 @@
 # 기성도
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30) <br>
-Compose 컴파일러 (31 ~ 79)
+[Compose 함수들 (10 ~ 30)](https://www.notion.so/Compose-10-30-2fad59f8145280b68b8ae1df5ab2af12?source=copy_link) <br>
+[Compose 컴파일러 (31 ~ 79)](https://www.notion.so/Compose-31-79-2fad59f8145280de8cd8f9f766abfe25?source=copy_link)
 
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
