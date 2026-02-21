@@ -14,6 +14,7 @@ https://www.notion.so/3-The-Compose-runtime-2fb603edf1218011921adb1270231232?sou
 
 ### 3주차
 Compose UI - 1 (126 ~ 150)
+https://www.notion.so/4-Compose-UI-30c603edf1218092965fc98863ab64df?source=copy_link
 
 ### 4주차
 Compose UI - 2 (151 ~ 207)
