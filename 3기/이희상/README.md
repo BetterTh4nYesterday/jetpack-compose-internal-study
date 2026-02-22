@@ -10,9 +10,11 @@ https://www.notion.so/2-Compose-The-Compose-compiler-2f7603edf12180518f06d9c8de5
 ### 2주차
 Compose Runtime - 1 (80 ~ 97) <br>
 Compose Runtime - 2 (99 ~ 124)
+https://www.notion.so/3-The-Compose-runtime-2fb603edf1218011921adb1270231232?source=copy_link
 
 ### 3주차
 Compose UI - 1 (126 ~ 150)
+https://www.notion.so/4-Compose-UI-30c603edf1218092965fc98863ab64df?source=copy_link
 
 ### 4주차
 Compose UI - 2 (151 ~ 207)
