@@ -5,8 +5,8 @@
 [Compose 컴파일러 (31 ~ 79)](https://www.notion.so/Compose-31-79-2fad59f8145280de8cd8f9f766abfe25?source=copy_link)
 
 ### 2주차
-Compose Runtime - 1 (80 ~ 97) <br>
-Compose Runtime - 2 (99 ~ 124)
+[Compose Runtime - 1 (80 ~ 97)](https://www.notion.so/Compose-Runtime-1-80-97-2ffd59f81452809f8e10d2dd92714af7) <br>
+[Compose Runtime - 2 (99 ~ 124)](https://www.notion.so/Compose-Runtime-2-99-124-2ffd59f81452807dbc72c7a3bdbf2c2d)
 
 ### 3주차
 Compose UI - 1 (126 ~ 150)
