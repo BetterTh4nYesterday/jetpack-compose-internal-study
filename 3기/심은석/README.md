@@ -13,7 +13,7 @@ Compose Runtime - 2 (99 ~ 124)
 [notion](https://www.notion.so/Compose-Runtime-2-300a03e4f12580e596fce738f0adddbf?source=copy_link)
 
 ### 3주차
-Compose UI - 1 (126 ~ 150)
+Compose UI - 1 (126 ~ 150) [notion](https://www.notion.so/Compose-UI-1-302a03e4f12580e9a3f4f7e2ac805034?source=copy_link)
 
 ### 4주차
 Compose UI - 2 (151 ~ 207)
