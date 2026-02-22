@@ -70,3 +70,8 @@ LazyList에 대한 시리즈 분석글입니다. 처음 LazyColum/Row의 구조�
    2기 스터디원으로 참여하신 가은님이 Landscapist 라이브러리의 컨트리뷰터가 되셨습니다! 적절한 Side Effect Handler를 사용하여 Recomposition을 개선한 내용을 확인해보시죠! <br>
    추가로 해당 coil과 Landscapist의 성능을 비교한 [글](https://velog.io/@geun5744/Compose-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A1%9C%EB%94%A9-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%84%B1%EB%8A%A5-%ED%83%90%EA%B5%AC-AsyncImage-CoilImage) 까지 올려주셨습니다!
 
+### [3기]
+- [🚀 Jetpack Compose Internals: How Slot Table + Gap Buffer Make UI Fast](https://blog.stackademic.com/jetpack-compose-internals-how-slot-table-gap-buffer-make-ui-fast-83fe7ad12494) <br>
+  [Inside Jetpack Compose](https://medium.com/%40takahirom/inside-jetpack-compose-2e971675e55e) <br>
+  갭 버퍼에 관한 짧은 첫번째 글과 컴포즈 내부 구조와 함께 갭버퍼에 대한 내용이 소개된 두 번째 글을 공유합니다.
+
