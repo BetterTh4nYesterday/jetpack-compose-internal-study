@@ -16,7 +16,7 @@ Compose Runtime - 2 (99 ~ 124)
 Compose UI - 1 (126 ~ 150) [notion](https://www.notion.so/Compose-UI-1-302a03e4f12580e9a3f4f7e2ac805034?source=copy_link)
 
 ### 4주차
-Compose UI - 2 (151 ~ 207)
+Compose UI - 2 (151 ~ 207) [notion](https://www.notion.so/Compose-UI-2-30fa03e4f12580399b5ef4868c299851?source=copy_link)
 
 ### 5주차
 상태 스냅샷 시스템 (210 ~ 243)
