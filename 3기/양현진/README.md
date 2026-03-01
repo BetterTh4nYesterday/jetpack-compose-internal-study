@@ -12,7 +12,7 @@
 [Compose UI - 1](https://www.notion.so/4-Compose-UI-308525f755478001b615d278185bf571?source=copy_link) (126 ~ 150)
 
 ### 4주차
-Compose UI - 2 (151 ~ 207)
+[Compose UI - 2](https://www.notion.so/5-Compose-UI-2-313525f7554780219db6e0a006a5bc14?source=copy_link) (151 ~ 207)
 
 ### 5주차
 상태 스냅샷 시스템 (210 ~ 243)
