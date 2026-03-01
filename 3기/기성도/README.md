@@ -9,11 +9,11 @@
 [Compose Runtime - 2 (99 ~ 124)](https://www.notion.so/Compose-Runtime-2-99-124-2ffd59f81452807dbc72c7a3bdbf2c2d)
 
 ### 3주차
-Compose UI - 1 (126 ~ 150)
+[Compose UI - 1 (126 ~ 150)](https://www.notion.so/Compose-UI-126-150-2ffd59f814528098b142c86edaf8642d)
 
 
 ### 4주차
-Compose UI - 2 (151 ~ 207)
+[Compose UI - 2 (151 ~ 207)](https://www.notion.so/Compose-UI-2-151-207-316d59f8145280e98a82e950b0824c30)
 
 ### 5주차
 상태 스냅샷 시스템 (210 ~ 243)
