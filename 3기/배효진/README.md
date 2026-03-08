@@ -15,7 +15,7 @@
 [Compose UI - 2 (151 ~ 207)](https://www.notion.so/hjiee/Compose-UI-2-151-207-2f85d6bc1fed80c8a609efa1c3f202b6?source=copy_link)
 
 ### 5주차
-상태 스냅샷 시스템 (210 ~ 243)
+[상태 스냅샷 시스템 (210 ~ 243)](https://www.notion.so/hjiee/210-243-2f85d6bc1fed807a9cbbfbc1a899cde1?source=copy_link)
 
 ### 6주차
 이펙트 및 이펙트 핸들러 (244 ~ 260)

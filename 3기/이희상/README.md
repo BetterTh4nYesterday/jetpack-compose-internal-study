@@ -22,6 +22,7 @@ https://www.notion.so/4-Compose-UI-2-310603edf12180ce8f3cdc3570d99aef?source=cop
 
 ### 5주차
 상태 스냅샷 시스템 (210 ~ 243)
+https://www.notion.so/5-319603edf12180578118ec97188e8de2?source=copy_link
 
 ### 6주차
 이펙트 및 이펙트 핸들러 (244 ~ 260)
