@@ -26,3 +26,4 @@ https://www.notion.so/5-319603edf12180578118ec97188e8de2?source=copy_link
 
 ### 6주차
 이펙트 및 이펙트 핸들러 (244 ~ 260)
+https://www.notion.so/6-Effects-and-effect-handlers-320603edf1218009b277d374c0921cf7?source=copy_link
