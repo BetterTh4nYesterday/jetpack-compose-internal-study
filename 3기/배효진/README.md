@@ -18,4 +18,4 @@
 [상태 스냅샷 시스템 (210 ~ 243)](https://www.notion.so/hjiee/210-243-2f85d6bc1fed807a9cbbfbc1a899cde1?source=copy_link)
 
 ### 6주차
-이펙트 및 이펙트 핸들러 (244 ~ 260)
+[이펙트 및 이펙트 핸들러 (244 ~ 260)](https://www.notion.so/hjiee/244-260-2f85d6bc1fed8048afbbc8ecf4ff7717?source=copy_link)
