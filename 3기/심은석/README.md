@@ -22,4 +22,4 @@ Compose UI - 2 (151 ~ 207) [notion](https://www.notion.so/Compose-UI-2-30fa03e4f
 상태 스냅샷 시스템 (210 ~ 243) [notion](https://www.notion.so/319a03e4f125808381d0dcd23bf84478?source=copy_link)
 
 ### 6주차
-이펙트 및 이펙트 핸들러 (244 ~ 260)
+이펙트 및 이펙트 핸들러 (244 ~ 260) [notion](https://www.notion.so/321a03e4f12580038252fc90f958ae44?source=copy_link)
